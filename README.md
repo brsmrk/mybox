@@ -1,0 +1,4 @@
+mybox
+=====
+
+Mailbox test
