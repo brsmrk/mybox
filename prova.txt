@@ -1,0 +1,1 @@
+<iframe src="http://docs.google.com/gview?url=http://www.yourwebsite.com/powerpoint.ppt&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
